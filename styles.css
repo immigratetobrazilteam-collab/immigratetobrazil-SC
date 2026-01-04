@@ -1,11 +1,11 @@
 body {
     margin: 0;
-    font-family: Arial, sans-serif;
+    font-family: Arial;
     background: #F0FFFF;
     color: #000080;
 }
 h1, h2 {
-    font-family: Beach, serif;
+    font-family: Beach;
     color: #00BFFF;
 }
 a {
