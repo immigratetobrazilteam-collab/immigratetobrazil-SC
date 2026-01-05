@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Santa Catarina Immigration Site",
+  "url": "https://immigratetobrazil.com/sc/",
+  "description": "Santa Catarina is a state in southern Brazil's South Region, bordered by Paran\u00e1, Rio Grande do Sul, the Atlantic Ocean, and Argentina's Misiones. Known for its mountainous terrain, humid subtropical and oceanic climates, and high socioeconomic indicators including the third-highest HDI and lowest poverty rates in Brazil.",
+  "keywords": [
+    "Santa Catarina",
+    "Brazil",
+    "South Region",
+    "Florian\u00f3polis",
+    "Joinville",
+    "mountainous terrain",
+    "high HDI"
+  ],
+  "inLanguage": "en"
+}
