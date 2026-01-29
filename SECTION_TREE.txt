@@ -1,1098 +1,664 @@
-sc/
+SC/
 ├─ index.html
-│  ├─ sc-index-section-immigrate-to-santa-catarina
-│  ├─ sc-index-form-immigrate-to-santa-catarina
-│  ├─ sc-index-section-state-vibe
-│  ├─ sc-index-section-quick-facts-snapshot
-│  ├─ sc-index-section-santa-catarina-map
-│  ├─ sc-index-section-cost-of-living-santa-catarina
-│  ├─ sc-index-section-government-context
-│  ├─ sc-index-hero-immigration-notes
-│  ├─ sc-index-list-common-applicant-profiles
-│  ├─ sc-index-list-economic-drivers
-│  ├─ sc-index-section-demographics
-│  ├─ sc-index-section-regional-challenges
-│  ├─ sc-index-section-regional-opportunities
-│  ├─ sc-index-section-culture-daily-life
-│  ├─ sc-index-list-local-language-expressions
-│  ├─ sc-index-list-food-cuisine
-│  ├─ sc-index-list-festivals-traditions
-│  ├─ sc-index-list-music-artistic-expression
-│  ├─ sc-index-list-sports-recreation
-│  ├─ sc-index-list-landmarks-historical-sites
-│  ├─ sc-index-list-natural-features
-│  ├─ sc-index-list-parks-protected-areas
-│  ├─ sc-index-list-museums-cultural-institutions
-│  ├─ sc-index-section-image-gallery
-│  ├─ sc-index-section-useful-government-links
-│  ├─ sc-index-hero-federal-police-immigration-links
-│  ├─ sc-index-section-external-references
-│  ├─ sc-index-list-immigration-services-overview
-│  ├─ sc-index-section-why-immigrate-here
-│  ├─ sc-index-section-legal-guidance-disclaimers
-│  ├─ contact
-│  ├─ sc-index-list-travel-services
-│  ├─ sc-index-list-how-the-process-works
-│  ├─ sc-index-section--frequently-asked-questions-about-living-in-santa-catarina-
-│  ├─ contact
+│  ├─ sc-index-section--map
+│  ├─ sc-index-section-frequently-asked-questions-about-living-in-
+│  ├─ sc-index-contact
 
-├─ contact-cta.html
-│  ├─ sc-contactcta-section-get-started-in-santa-catarina
+├─ footer.html
+│  ├─ main-footer
 
-├─ renouncing-citizenship.html
-│  ├─ sc-renouncingcitizenship-form-renounce-brazilian-citizenship
-│  ├─ sc-renouncingcitizenship-list-quick-facts
-│  ├─ sc-renouncingcitizenship-list-common-challenges-applicants-face
-│  ├─ sc-renouncingcitizenship-list-how-we-solve-these-challenges
-│  ├─ sc-renouncingcitizenship-section-renunciation-overview
-│  ├─ sc-renouncingcitizenship-form-who-is-this-for
-│  ├─ sc-renouncingcitizenship-list-required-documents
-│  ├─ sc-renouncingcitizenship-list-process
-│  ├─ sc-renouncingcitizenship-section-timelines-deadlines
-│  ├─ sc-renouncingcitizenship-section-fees-costs
-│  ├─ sc-renouncingcitizenship-list-risks-common-mistakes
-│  ├─ sc-renouncingcitizenship-section-diy-vs-professional-assistance
-│  ├─ sc-renouncingcitizenship-section-santa-catarina-specific-context
-│  ├─ sc-renouncingcitizenship-section-what-our-clients-say
-│  ├─ sc-renouncingcitizenship-section-frequently-asked-questions
-│  ├─ sc-renouncingcitizenship-section-international-support
-│  ├─ application-form
-│  ├─ sc-renouncingcitizenship-list-our-credentials
-│  ├─ sc-renouncingcitizenship-list-related-services
-│  ├─ sc-renouncingcitizenship-section-youre-in-good-hands
-│  ├─ sc-renouncingcitizenship-section-21
+├─ header.html
+│  ├─ main-header
 
-├─ provisional.html
-│  ├─ sc-provisional-form-provisional-naturalisation-in-brazil-for-minors
-│  ├─ sc-provisional-list-quick-facts
-│  ├─ sc-provisional-list-common-challenges-applicants-face
-│  ├─ sc-provisional-list-how-we-solve-these-challenges
-│  ├─ sc-provisional-section-naturalisation-overview
-│  ├─ sc-provisional-form-who-is-this-naturalisation-for
-│  ├─ sc-provisional-list-required-documents
-│  ├─ sc-provisional-list-application-process
-│  ├─ sc-provisional-section-timelines-deadlines
-│  ├─ sc-provisional-section-fees-costs
-│  ├─ sc-provisional-list-risks-common-mistakes
-│  ├─ sc-provisional-section-diy-vs-professional-assistance
-│  ├─ sc-provisional-section-santa-catarina-specific-context
-│  ├─ sc-provisional-section-what-our-clients-say
-│  ├─ sc-provisional-section-frequently-asked-questions
-│  ├─ sc-provisional-section-international-support
-│  ├─ application-form
-│  ├─ sc-provisional-list-our-credentials
-│  ├─ sc-provisional-list-related-services
-│  ├─ sc-provisional-section-youre-in-good-hands
-│  ├─ sc-provisional-section-21
-
-├─ special.html
-│  ├─ sc-special-form-special-naturalisation-in-brazil-for-particular-cases
-│  ├─ sc-special-list-quick-facts
-│  ├─ sc-special-list-common-challenges-applicants-face
-│  ├─ sc-special-list-how-we-solve-these-challenges
-│  ├─ sc-special-section-naturalisation-overview
-│  ├─ sc-special-form-who-is-this-naturalisation-for
-│  ├─ sc-special-list-required-documents
-│  ├─ sc-special-list-application-process
-│  ├─ sc-special-section-timelines-deadlines
-│  ├─ sc-special-section-fees-costs
-│  ├─ sc-special-list-risks-common-mistakes
-│  ├─ sc-special-section-diy-vs-professional-assistance
-│  ├─ sc-special-section-santa-catarina-specific-context
-│  ├─ sc-special-section-what-our-clients-say
-│  ├─ sc-special-section-frequently-asked-questions
-│  ├─ sc-special-section-international-support
-│  ├─ application-form
-│  ├─ sc-special-list-our-credentials
-│  ├─ sc-special-list-related-services
-│  ├─ sc-special-section-youre-in-good-hands
-│  ├─ sc-special-section-21
-
-├─ ordinary.html
-│  ├─ sc-ordinary-form-obtain-brazilian-citizenship-through-ordinary-naturalisation
-│  ├─ sc-ordinary-list-quick-facts
-│  ├─ sc-ordinary-list-common-challenges-applicants-face
-│  ├─ sc-ordinary-list-how-we-solve-these-challenges
-│  ├─ sc-ordinary-section-naturalisation-overview
-│  ├─ sc-ordinary-form-who-is-this-naturalisation-for
-│  ├─ sc-ordinary-list-required-documents
-│  ├─ sc-ordinary-list-application-process
-│  ├─ sc-ordinary-section-timelines-deadlines
-│  ├─ sc-ordinary-section-fees-costs
-│  ├─ sc-ordinary-list-risks-common-mistakes
-│  ├─ sc-ordinary-section-diy-vs-professional-assistance
-│  ├─ sc-ordinary-section-santa-catarina-specific-context
-│  ├─ sc-ordinary-section-what-our-clients-say
-│  ├─ sc-ordinary-section-frequently-asked-questions
-│  ├─ sc-ordinary-section-international-support
-│  ├─ application-form
-│  ├─ sc-ordinary-list-our-credentials
-│  ├─ sc-ordinary-list-related-services
-│  ├─ sc-ordinary-section-youre-in-good-hands
-│  ├─ sc-ordinary-section-21
-
-├─ extraordinary.html
-│  ├─ sc-extraordinary-form-extraordinary-naturalisation-in-brazil-for-contributions
-│  ├─ sc-extraordinary-list-quick-facts
-│  ├─ sc-extraordinary-list-common-challenges-applicants-face
-│  ├─ sc-extraordinary-list-how-we-solve-these-challenges
-│  ├─ sc-extraordinary-section-naturalisation-overview
-│  ├─ sc-extraordinary-form-who-is-this-naturalisation-for
-│  ├─ sc-extraordinary-list-required-documents
-│  ├─ sc-extraordinary-list-application-process
-│  ├─ sc-extraordinary-section-timelines-deadlines
-│  ├─ sc-extraordinary-section-fees-costs
-│  ├─ sc-extraordinary-list-risks-common-mistakes
-│  ├─ sc-extraordinary-section-diy-vs-professional-assistance
-│  ├─ sc-extraordinary-section-santa-catarina-specific-context
-│  ├─ sc-extraordinary-section-what-our-clients-say
-│  ├─ sc-extraordinary-section-frequently-asked-questions
-│  ├─ sc-extraordinary-section-international-support
-│  ├─ application-form
-│  ├─ sc-extraordinary-list-our-credentials
-│  ├─ sc-extraordinary-list-related-services
-│  ├─ sc-extraordinary-section-youre-in-good-hands
-│  ├─ sc-extraordinary-section-21
-
-├─ reacquisition-citizenship.html
-│  ├─ sc-reacquisitioncitizenship-form-reacquire-brazilian-citizenship
-│  ├─ sc-reacquisitioncitizenship-list-quick-facts
-│  ├─ sc-reacquisitioncitizenship-list-common-challenges-applicants-face
-│  ├─ sc-reacquisitioncitizenship-list-how-we-solve-these-challenges
-│  ├─ sc-reacquisitioncitizenship-section-reacquisition-overview
-│  ├─ sc-reacquisitioncitizenship-form-who-is-this-for
-│  ├─ sc-reacquisitioncitizenship-list-required-documents
-│  ├─ sc-reacquisitioncitizenship-list-process
-│  ├─ sc-reacquisitioncitizenship-section-timelines-deadlines
-│  ├─ sc-reacquisitioncitizenship-section-fees-costs
-│  ├─ sc-reacquisitioncitizenship-list-risks-common-mistakes
-│  ├─ sc-reacquisitioncitizenship-section-diy-vs-professional-assistance
-│  ├─ sc-reacquisitioncitizenship-section-santa-catarina-specific-context
-│  ├─ sc-reacquisitioncitizenship-section-what-our-clients-say
-│  ├─ sc-reacquisitioncitizenship-section-frequently-asked-questions
-│  ├─ sc-reacquisitioncitizenship-section-international-support
-│  ├─ application-form
-│  ├─ sc-reacquisitioncitizenship-list-our-credentials
-│  ├─ sc-reacquisitioncitizenship-list-related-services
-│  ├─ sc-reacquisitioncitizenship-section-youre-in-good-hands
-│  ├─ sc-reacquisitioncitizenship-section-21
-
-├─ scientific-research.html
-│  ├─ sc-scientificresearch-form-conduct-scientific-research-with-residency-in-brazil
-│  ├─ sc-scientificresearch-list-quick-facts
-│  ├─ sc-scientificresearch-list-common-challenges-applicants-face
-│  ├─ sc-scientificresearch-list-how-we-solve-these-challenges
-│  ├─ sc-scientificresearch-section-residency-overview
-│  ├─ sc-scientificresearch-form-who-is-this-residency-for
-│  ├─ sc-scientificresearch-list-required-documents
-│  ├─ sc-scientificresearch-list-application-process
-│  ├─ sc-scientificresearch-section-timelines-deadlines
-│  ├─ sc-scientificresearch-section-fees-costs
-│  ├─ sc-scientificresearch-list-risks-common-mistakes
-│  ├─ sc-scientificresearch-section-diy-vs-professional-assistance
-│  ├─ sc-scientificresearch-section-santa-catarina-specific-context
-│  ├─ sc-scientificresearch-section-what-our-clients-say
-│  ├─ sc-scientificresearch-section-frequently-asked-questions
-│  ├─ sc-scientificresearch-section-international-support
-│  ├─ application-form
-│  ├─ sc-scientificresearch-list-our-credentials
-│  ├─ sc-scientificresearch-list-related-services
-│  ├─ sc-scientificresearch-section-youre-in-good-hands
-│  ├─ sc-scientificresearch-section-21
-
-├─ study.html
-│  ├─ sc-study-form-study-in-brazil-with-study-residency
-│  ├─ sc-study-list-quick-facts
-│  ├─ sc-study-list-common-challenges-applicants-face
-│  ├─ sc-study-list-how-we-solve-these-challenges
-│  ├─ sc-study-section-residency-overview
-│  ├─ sc-study-form-who-is-this-residency-for
-│  ├─ sc-study-list-required-documents
-│  ├─ sc-study-list-application-process
-│  ├─ sc-study-section-timelines-deadlines
-│  ├─ sc-study-section-fees-costs
-│  ├─ sc-study-list-risks-common-mistakes
-│  ├─ sc-study-section-diy-vs-professional-assistance
-│  ├─ sc-study-section-santa-catarina-specific-context
-│  ├─ sc-study-section-what-our-clients-say
-│  ├─ sc-study-section-frequently-asked-questions
-│  ├─ sc-study-section-international-support
-│  ├─ application-form
-│  ├─ sc-study-list-our-credentials
-│  ├─ sc-study-list-related-services
-│  ├─ sc-study-section-youre-in-good-hands
-│  ├─ sc-study-section-21
-
-├─ educational-exchange.html
-│  ├─ sc-educationalexchange-form-participate-in-educational-exchanges-with-residency-in-brazil
-│  ├─ sc-educationalexchange-list-quick-facts
-│  ├─ sc-educationalexchange-list-common-challenges-applicants-face
-│  ├─ sc-educationalexchange-list-how-we-solve-these-challenges
-│  ├─ sc-educationalexchange-section-residency-overview
-│  ├─ sc-educationalexchange-form-who-is-this-residency-for
-│  ├─ sc-educationalexchange-list-required-documents
-│  ├─ sc-educationalexchange-list-application-process
-│  ├─ sc-educationalexchange-section-timelines-deadlines
-│  ├─ sc-educationalexchange-section-fees-costs
-│  ├─ sc-educationalexchange-list-risks-common-mistakes
-│  ├─ sc-educationalexchange-section-diy-vs-professional-assistance
-│  ├─ sc-educationalexchange-section-santa-catarina-specific-context
-│  ├─ sc-educationalexchange-section-what-our-clients-say
-│  ├─ sc-educationalexchange-section-frequently-asked-questions
-│  ├─ sc-educationalexchange-section-international-support
-│  ├─ application-form
-│  ├─ sc-educationalexchange-list-our-credentials
-│  ├─ sc-educationalexchange-list-related-services
-│  ├─ sc-educationalexchange-section-youre-in-good-hands
-│  ├─ sc-educationalexchange-section-21
-
-├─ humanitarian.html
-│  ├─ sc-humanitarian-form-humanitarian-residency-in-brazil-for-protection
-│  ├─ sc-humanitarian-list-quick-facts
-│  ├─ sc-humanitarian-list-common-challenges-applicants-face
-│  ├─ sc-humanitarian-list-how-we-solve-these-challenges
-│  ├─ sc-humanitarian-section-residency-overview
-│  ├─ sc-humanitarian-form-who-is-this-residency-for
-│  ├─ sc-humanitarian-list-required-documents
-│  ├─ sc-humanitarian-list-application-process
-│  ├─ sc-humanitarian-section-timelines-deadlines
-│  ├─ sc-humanitarian-section-fees-costs
-│  ├─ sc-humanitarian-list-risks-common-mistakes
-│  ├─ sc-humanitarian-section-diy-vs-professional-assistance
-│  ├─ sc-humanitarian-section-santa-catarina-specific-context
-│  ├─ sc-humanitarian-section-what-our-clients-say
-│  ├─ sc-humanitarian-section-frequently-asked-questions
-│  ├─ sc-humanitarian-section-international-support
-│  ├─ application-form
-│  ├─ sc-humanitarian-list-our-credentials
-│  ├─ sc-humanitarian-list-related-services
-│  ├─ sc-humanitarian-section-youre-in-good-hands
-│  ├─ sc-humanitarian-section-21
-
-├─ digital-nomad.html
-│  ├─ sc-digitalnomad-form-digital-nomad-residency-in-brazil
-│  ├─ sc-digitalnomad-list-quick-facts
-│  ├─ sc-digitalnomad-list-common-challenges-applicants-face
-│  ├─ sc-digitalnomad-list-how-we-solve-these-challenges
-│  ├─ sc-digitalnomad-section-residency-overview
-│  ├─ sc-digitalnomad-form-who-is-this-residency-for
-│  ├─ sc-digitalnomad-list-required-documents
-│  ├─ sc-digitalnomad-list-application-process
-│  ├─ sc-digitalnomad-section-timelines-deadlines
-│  ├─ sc-digitalnomad-section-fees-costs
-│  ├─ sc-digitalnomad-list-risks-common-mistakes
-│  ├─ sc-digitalnomad-section-diy-vs-professional-assistance
-│  ├─ sc-digitalnomad-section-santa-catarina-specific-context
-│  ├─ sc-digitalnomad-section-what-our-clients-say
-│  ├─ sc-digitalnomad-section-frequently-asked-questions
-│  ├─ sc-digitalnomad-section-international-support
-│  ├─ application-form
-│  ├─ sc-digitalnomad-list-our-credentials
-│  ├─ sc-digitalnomad-list-related-services
-│  ├─ sc-digitalnomad-section-youre-in-good-hands
-│  ├─ sc-digitalnomad-section-21
-
-├─ family-reunion.html
-│  ├─ sc-familyreunion-form-reunite-with-family-in-brazil-with-family-reunion-residency
-│  ├─ sc-familyreunion-list-quick-facts
-│  ├─ sc-familyreunion-list-common-challenges-applicants-face
-│  ├─ sc-familyreunion-list-how-we-solve-these-challenges
-│  ├─ sc-familyreunion-section-residency-overview
-│  ├─ sc-familyreunion-form-who-is-this-residency-for
-│  ├─ sc-familyreunion-list-required-documents
-│  ├─ sc-familyreunion-list-application-process
-│  ├─ sc-familyreunion-section-timelines-deadlines
-│  ├─ sc-familyreunion-section-fees-costs
-│  ├─ sc-familyreunion-list-risks-common-mistakes
-│  ├─ sc-familyreunion-section-diy-vs-professional-assistance
-│  ├─ sc-familyreunion-section-santa-catarina-specific-context
-│  ├─ sc-familyreunion-section-what-our-clients-say
-│  ├─ sc-familyreunion-section-frequently-asked-questions
-│  ├─ sc-familyreunion-section-international-support
-│  ├─ application-form
-│  ├─ sc-familyreunion-list-our-credentials
-│  ├─ sc-familyreunion-list-related-services
-│  ├─ sc-familyreunion-section-youre-in-good-hands
-│  ├─ sc-familyreunion-section-21
-
-├─ mercosul.html
-│  ├─ sc-mercosul-form-residency-for-mercosul-citizens-in-brazil
-│  ├─ sc-mercosul-list-quick-facts
-│  ├─ sc-mercosul-list-common-challenges-applicants-face
-│  ├─ sc-mercosul-list-how-we-solve-these-challenges
-│  ├─ sc-mercosul-section-residency-overview
-│  ├─ sc-mercosul-form-who-is-this-residency-for
-│  ├─ sc-mercosul-list-required-documents
-│  ├─ sc-mercosul-list-application-process
-│  ├─ sc-mercosul-section-timelines-deadlines
-│  ├─ sc-mercosul-section-fees-costs
-│  ├─ sc-mercosul-list-risks-common-mistakes
-│  ├─ sc-mercosul-section-diy-vs-professional-assistance
-│  ├─ sc-mercosul-section-santa-catarina-specific-context
-│  ├─ sc-mercosul-section-what-our-clients-say
-│  ├─ sc-mercosul-section-frequently-asked-questions
-│  ├─ sc-mercosul-section-international-support
-│  ├─ application-form
-│  ├─ sc-mercosul-list-our-credentials
-│  ├─ sc-mercosul-list-related-services
-│  ├─ sc-mercosul-section-youre-in-good-hands
-│  ├─ sc-mercosul-section-21
-
-├─ retiree.html
-│  ├─ sc-retiree-form-retire-in-brazil-with-retiree-residency
-│  ├─ sc-retiree-list-quick-facts
-│  ├─ sc-retiree-list-common-challenges-applicants-face
-│  ├─ sc-retiree-list-how-we-solve-these-challenges
-│  ├─ sc-retiree-section-residency-overview
-│  ├─ sc-retiree-form-who-is-this-residency-for
-│  ├─ sc-retiree-list-required-documents
-│  ├─ sc-retiree-list-application-process
-│  ├─ sc-retiree-section-timelines-deadlines
-│  ├─ sc-retiree-section-fees-costs
-│  ├─ sc-retiree-list-risks-common-mistakes
-│  ├─ sc-retiree-section-diy-vs-professional-assistance
-│  ├─ sc-retiree-section-santa-catarina-specific-context
-│  ├─ sc-retiree-section-what-our-clients-say
-│  ├─ sc-retiree-section-frequently-asked-questions
-│  ├─ sc-retiree-section-international-support
-│  ├─ application-form
-│  ├─ sc-retiree-list-our-credentials
-│  ├─ sc-retiree-list-related-services
-│  ├─ sc-retiree-section-youre-in-good-hands
-│  ├─ sc-retiree-section-21
-
-├─ volunteer.html
-│  ├─ sc-volunteer-form-volunteer-in-brazil-with-volunteer-residency
-│  ├─ sc-volunteer-list-quick-facts
-│  ├─ sc-volunteer-list-common-challenges-applicants-face
-│  ├─ sc-volunteer-list-how-we-solve-these-challenges
-│  ├─ sc-volunteer-section-residency-overview
-│  ├─ sc-volunteer-form-who-is-this-residency-for
-│  ├─ sc-volunteer-list-required-documents
-│  ├─ sc-volunteer-list-application-process
-│  ├─ sc-volunteer-section-timelines-deadlines
-│  ├─ sc-volunteer-section-fees-costs
-│  ├─ sc-volunteer-list-risks-common-mistakes
-│  ├─ sc-volunteer-section-diy-vs-professional-assistance
-│  ├─ sc-volunteer-section-santa-catarina-specific-context
-│  ├─ sc-volunteer-section-what-our-clients-say
-│  ├─ sc-volunteer-section-frequently-asked-questions
-│  ├─ sc-volunteer-section-international-support
-│  ├─ application-form
-│  ├─ sc-volunteer-list-our-credentials
-│  ├─ sc-volunteer-list-related-services
-│  ├─ sc-volunteer-section-youre-in-good-hands
-│  ├─ sc-volunteer-section-21
-
-├─ skilled-worker.html
-│  ├─ sc-skilledworker-form-skilled-worker-residency-in-brazil-for-professionals
-│  ├─ sc-skilledworker-list-quick-facts
-│  ├─ sc-skilledworker-list-common-challenges-applicants-face
-│  ├─ sc-skilledworker-list-how-we-solve-these-challenges
-│  ├─ sc-skilledworker-section-residency-overview
-│  ├─ sc-skilledworker-form-who-is-this-residency-for
-│  ├─ sc-skilledworker-list-required-documents
-│  ├─ sc-skilledworker-list-application-process
-│  ├─ sc-skilledworker-section-timelines-deadlines
-│  ├─ sc-skilledworker-section-fees-costs
-│  ├─ sc-skilledworker-list-risks-common-mistakes
-│  ├─ sc-skilledworker-section-diy-vs-professional-assistance
-│  ├─ sc-skilledworker-section-santa-catarina-specific-context
-│  ├─ sc-skilledworker-section-what-our-clients-say
-│  ├─ sc-skilledworker-section-frequently-asked-questions
-│  ├─ sc-skilledworker-section-international-support
-│  ├─ application-form
-│  ├─ sc-skilledworker-list-our-credentials
-│  ├─ sc-skilledworker-list-related-services
-│  ├─ sc-skilledworker-section-youre-in-good-hands
-│  ├─ sc-skilledworker-section-21
-
-├─ religious.html
-│  ├─ sc-religious-form-religious-residency-in-brazil-for-missions
-│  ├─ sc-religious-list-quick-facts
-│  ├─ sc-religious-list-common-challenges-applicants-face
-│  ├─ sc-religious-list-how-we-solve-these-challenges
-│  ├─ sc-religious-section-residency-overview
-│  ├─ sc-religious-form-who-is-this-residency-for
-│  ├─ sc-religious-list-required-documents
-│  ├─ sc-religious-list-application-process
-│  ├─ sc-religious-section-timelines-deadlines
-│  ├─ sc-religious-section-fees-costs
-│  ├─ sc-religious-list-risks-common-mistakes
-│  ├─ sc-religious-section-diy-vs-professional-assistance
-│  ├─ sc-religious-section-santa-catarina-specific-context
-│  ├─ sc-religious-section-what-our-clients-say
-│  ├─ sc-religious-section-frequently-asked-questions
-│  ├─ sc-religious-section-international-support
-│  ├─ application-form
-│  ├─ sc-religious-list-our-credentials
-│  ├─ sc-religious-list-related-services
-│  ├─ sc-religious-section-youre-in-good-hands
-│  ├─ sc-religious-section-21
-
-├─ investor.html
-│  ├─ sc-investor-form-gain-residency-in-brazil-through-investment
-│  ├─ sc-investor-list-quick-facts
-│  ├─ sc-investor-list-common-challenges-applicants-face
-│  ├─ sc-investor-list-how-we-solve-these-challenges
-│  ├─ sc-investor-section-residency-overview
-│  ├─ sc-investor-form-who-is-this-residency-for
-│  ├─ sc-investor-list-required-documents
-│  ├─ sc-investor-list-application-process
-│  ├─ sc-investor-section-timelines-deadlines
-│  ├─ sc-investor-section-fees-costs
-│  ├─ sc-investor-list-risks-common-mistakes
-│  ├─ sc-investor-section-diy-vs-professional-assistance
-│  ├─ sc-investor-section-santa-catarina-specific-context
-│  ├─ sc-investor-section-what-our-clients-say
-│  ├─ sc-investor-section-frequently-asked-questions
-│  ├─ sc-investor-section-international-support
-│  ├─ application-form
-│  ├─ sc-investor-list-our-credentials
-│  ├─ sc-investor-list-related-services
-│  ├─ sc-investor-section-youre-in-good-hands
-│  ├─ sc-investor-section-21
-
-├─ health-treatment.html
-│  ├─ sc-healthtreatment-form-extend-your-stay-for-health-treatment-in-brazil
-│  ├─ sc-healthtreatment-list-quick-facts
-│  ├─ sc-healthtreatment-list-common-challenges-applicants-face
-│  ├─ sc-healthtreatment-list-how-we-solve-these-challenges
-│  ├─ sc-healthtreatment-section-residency-overview
-│  ├─ sc-healthtreatment-form-who-is-this-residency-for
-│  ├─ sc-healthtreatment-list-required-documents
-│  ├─ sc-healthtreatment-list-application-process
-│  ├─ sc-healthtreatment-section-timelines-deadlines
-│  ├─ sc-healthtreatment-section-fees-costs
-│  ├─ sc-healthtreatment-list-risks-common-mistakes
-│  ├─ sc-healthtreatment-section-diy-vs-professional-assistance
-│  ├─ sc-healthtreatment-section-santa-catarina-specific-context
-│  ├─ sc-healthtreatment-section-what-our-clients-say
-│  ├─ sc-healthtreatment-section-frequently-asked-questions
-│  ├─ sc-healthtreatment-section-international-support
-│  ├─ application-form
-│  ├─ sc-healthtreatment-list-our-credentials
-│  ├─ sc-healthtreatment-list-related-services
-│  ├─ sc-healthtreatment-section-youre-in-good-hands
-│  ├─ sc-healthtreatment-section-21
-
-├─ cplp.html
-│  ├─ sc-cplp-form-residency-for-cplp-citizens-in-brazil
-│  ├─ sc-cplp-list-quick-facts
-│  ├─ sc-cplp-list-common-challenges-applicants-face
-│  ├─ sc-cplp-list-how-we-solve-these-challenges
-│  ├─ sc-cplp-section-residency-overview
-│  ├─ sc-cplp-form-who-is-this-residency-for
-│  ├─ sc-cplp-list-required-documents
-│  ├─ sc-cplp-list-application-process
-│  ├─ sc-cplp-section-timelines-deadlines
-│  ├─ sc-cplp-section-fees-costs
-│  ├─ sc-cplp-list-risks-common-mistakes
-│  ├─ sc-cplp-section-diy-vs-professional-assistance
-│  ├─ sc-cplp-section-santa-catarina-specific-context
-│  ├─ sc-cplp-section-what-our-clients-say
-│  ├─ sc-cplp-section-frequently-asked-questions
-│  ├─ sc-cplp-section-international-support
-│  ├─ application-form
-│  ├─ sc-cplp-list-our-credentials
-│  ├─ sc-cplp-list-related-services
-│  ├─ sc-cplp-section-youre-in-good-hands
-│  ├─ sc-cplp-section-21
-
-├─ youth-exchange.html
-│  ├─ sc-youthexchange-form-youth-exchange-residency-in-brazil-for-programs
-│  ├─ sc-youthexchange-list-quick-facts
-│  ├─ sc-youthexchange-list-common-challenges-applicants-face
-│  ├─ sc-youthexchange-list-how-we-solve-these-challenges
-│  ├─ sc-youthexchange-section-residency-overview
-│  ├─ sc-youthexchange-form-who-is-this-residency-for
-│  ├─ sc-youthexchange-list-required-documents
-│  ├─ sc-youthexchange-list-application-process
-│  ├─ sc-youthexchange-section-timelines-deadlines
-│  ├─ sc-youthexchange-section-fees-costs
-│  ├─ sc-youthexchange-list-risks-common-mistakes
-│  ├─ sc-youthexchange-section-diy-vs-professional-assistance
-│  ├─ sc-youthexchange-section-santa-catarina-specific-context
-│  ├─ sc-youthexchange-section-what-our-clients-say
-│  ├─ sc-youthexchange-section-frequently-asked-questions
-│  ├─ sc-youthexchange-section-international-support
-│  ├─ application-form
-│  ├─ sc-youthexchange-list-our-credentials
-│  ├─ sc-youthexchange-list-related-services
-│  ├─ sc-youthexchange-section-youre-in-good-hands
-│  ├─ sc-youthexchange-section-21
-
-├─ work.html
-│  ├─ sc-work-form-work-and-reside-in-brazil-with-work-residency
-│  ├─ sc-work-list-quick-facts
-│  ├─ sc-work-list-common-challenges-applicants-face
-│  ├─ sc-work-list-how-we-solve-these-challenges
-│  ├─ sc-work-section-residency-overview
-│  ├─ sc-work-form-who-is-this-residency-for
-│  ├─ sc-work-list-required-documents
-│  ├─ sc-work-list-application-process
-│  ├─ sc-work-section-timelines-deadlines
-│  ├─ sc-work-section-fees-costs
-│  ├─ sc-work-list-risks-common-mistakes
-│  ├─ sc-work-section-diy-vs-professional-assistance
-│  ├─ sc-work-section-santa-catarina-specific-context
-│  ├─ sc-work-section-what-our-clients-say
-│  ├─ sc-work-section-frequently-asked-questions
-│  ├─ sc-work-section-international-support
-│  ├─ application-form
-│  ├─ sc-work-list-our-credentials
-│  ├─ sc-work-list-related-services
-│  ├─ sc-work-section-youre-in-good-hands
-│  ├─ sc-work-section-21
-
-├─ startup.html
-│  ├─ sc-startup-form-launch-your-startup-in-brazil-with-the-startup-visa
-│  ├─ sc-startup-list-quick-facts
-│  ├─ sc-startup-list-common-challenges-applicants-face
-│  ├─ sc-startup-list-how-we-solve-these-challenges
-│  ├─ sc-startup-section-visa-overview
-│  ├─ sc-startup-form-who-is-this-visa-for
-│  ├─ sc-startup-list-required-documents
-│  ├─ sc-startup-list-application-process
-│  ├─ sc-startup-section-timelines-deadlines
-│  ├─ sc-startup-section-fees-costs
-│  ├─ sc-startup-list-risks-common-mistakes
-│  ├─ sc-startup-section-diy-vs-professional-assistance
-│  ├─ sc-startup-section-santa-catarina-specific-context
-│  ├─ sc-startup-section-what-our-clients-say
-│  ├─ sc-startup-section-frequently-asked-questions
-│  ├─ sc-startup-section-international-support
-│  ├─ application-form
-│  ├─ sc-startup-list-our-credentials
-│  ├─ sc-startup-list-related-services
-│  ├─ sc-startup-section-youre-in-good-hands
-│  ├─ sc-startup-section-21
-
-├─ family.html
-│  ├─ sc-family-form-reunite-with-family-in-brazil-with-the-family-visa
-│  ├─ sc-family-list-quick-facts
-│  ├─ sc-family-list-common-challenges-applicants-face
-│  ├─ sc-family-list-how-we-solve-these-challenges
-│  ├─ sc-family-section-visa-overview
-│  ├─ sc-family-form-who-is-this-visa-for
-│  ├─ sc-family-list-required-documents
-│  ├─ sc-family-list-application-process
-│  ├─ sc-family-section-timelines-deadlines
-│  ├─ sc-family-section-fees-costs
-│  ├─ sc-family-list-risks-common-mistakes
-│  ├─ sc-family-section-diy-vs-professional-assistance
-│  ├─ sc-family-section-santa-catarina-specific-context
-│  ├─ sc-family-section-what-our-clients-say
-│  ├─ sc-family-section-frequently-asked-questions
-│  ├─ sc-family-section-international-support
-│  ├─ application-form
-│  ├─ sc-family-list-our-credentials
-│  ├─ sc-family-list-related-services
-│  ├─ sc-family-section-youre-in-good-hands
-│  ├─ sc-family-section-21
-
-├─ sports.html
-│  ├─ sc-sports-form-compete-in-brazil-with-the-sports-visa
-│  ├─ sc-sports-list-quick-facts
-│  ├─ sc-sports-list-common-challenges-applicants-face
-│  ├─ sc-sports-list-how-we-solve-these-challenges
-│  ├─ sc-sports-section-visa-overview
-│  ├─ sc-sports-form-who-is-this-visa-for
-│  ├─ sc-sports-list-required-documents
-│  ├─ sc-sports-list-application-process
-│  ├─ sc-sports-section-timelines-deadlines
-│  ├─ sc-sports-section-fees-costs
-│  ├─ sc-sports-list-risks-common-mistakes
-│  ├─ sc-sports-section-diy-vs-professional-assistance
-│  ├─ sc-sports-section-santa-catarina-specific-context
-│  ├─ sc-sports-section-what-our-clients-say
-│  ├─ sc-sports-section-frequently-asked-questions
-│  ├─ sc-sports-section-international-support
-│  ├─ application-form
-│  ├─ sc-sports-list-our-credentials
-│  ├─ sc-sports-list-related-services
-│  ├─ sc-sports-section-youre-in-good-hands
-│  ├─ sc-sports-section-21
-
-├─ medical.html
-│  ├─ sc-medical-form-receive-medical-treatment-in-brazil-with-the-medical-visa
-│  ├─ sc-medical-list-quick-facts
-│  ├─ sc-medical-list-common-challenges-applicants-face
-│  ├─ sc-medical-list-how-we-solve-these-challenges
-│  ├─ sc-medical-section-visa-overview
-│  ├─ sc-medical-form-who-is-this-visa-for
-│  ├─ sc-medical-list-required-documents
-│  ├─ sc-medical-list-application-process
-│  ├─ sc-medical-section-timelines-deadlines
-│  ├─ sc-medical-section-fees-costs
-│  ├─ sc-medical-list-risks-common-mistakes
-│  ├─ sc-medical-section-diy-vs-professional-assistance
-│  ├─ sc-medical-section-santa-catarina-specific-context
-│  ├─ sc-medical-section-what-our-clients-say
-│  ├─ sc-medical-section-frequently-asked-questions
-│  ├─ sc-medical-section-international-support
-│  ├─ application-form
-│  ├─ sc-medical-list-our-credentials
-│  ├─ sc-medical-list-related-services
-│  ├─ sc-medical-section-youre-in-good-hands
-│  ├─ sc-medical-section-21
-
-├─ tourist.html
-│  ├─ sc-tourist-form-visit-brazil-as-a-tourist-with-the-tourist-visa
-│  ├─ sc-tourist-list-quick-facts
-│  ├─ sc-tourist-list-common-challenges-applicants-face
-│  ├─ sc-tourist-list-how-we-solve-these-challenges
-│  ├─ sc-tourist-section-visa-overview
-│  ├─ sc-tourist-form-who-is-this-visa-for
-│  ├─ sc-tourist-list-required-documents
-│  ├─ sc-tourist-list-application-process
-│  ├─ sc-tourist-section-timelines-deadlines
-│  ├─ sc-tourist-section-fees-costs
-│  ├─ sc-tourist-list-risks-common-mistakes
-│  ├─ sc-tourist-section-diy-vs-professional-assistance
-│  ├─ sc-tourist-section-santa-catarina-specific-context
-│  ├─ sc-tourist-section-what-our-clients-say
-│  ├─ sc-tourist-section-frequently-asked-questions
-│  ├─ sc-tourist-section-international-support
-│  ├─ application-form
-│  ├─ sc-tourist-list-our-credentials
-│  ├─ sc-tourist-list-related-services
-│  ├─ sc-tourist-section-youre-in-good-hands
-│  ├─ sc-tourist-section-21
-
-├─ transit.html
-│  ├─ sc-transit-form-transit-through-brazil-with-the-transit-visa
-│  ├─ sc-transit-list-quick-facts
-│  ├─ sc-transit-list-common-challenges-applicants-face
-│  ├─ sc-transit-list-how-we-solve-these-challenges
-│  ├─ sc-transit-section-visa-overview
-│  ├─ sc-transit-form-who-is-this-visa-for
-│  ├─ sc-transit-list-required-documents
-│  ├─ sc-transit-list-application-process
-│  ├─ sc-transit-section-timelines-deadlines
-│  ├─ sc-transit-section-fees-costs
-│  ├─ sc-transit-list-risks-common-mistakes
-│  ├─ sc-transit-section-diy-vs-professional-assistance
-│  ├─ sc-transit-section-santa-catarina-specific-context
-│  ├─ sc-transit-section-what-our-clients-say
-│  ├─ sc-transit-section-frequently-asked-questions
-│  ├─ sc-transit-section-international-support
-│  ├─ application-form
-│  ├─ sc-transit-list-our-credentials
-│  ├─ sc-transit-list-related-services
-│  ├─ sc-transit-section-youre-in-good-hands
-│  ├─ sc-transit-section-21
-
-├─ student.html
-│  ├─ sc-student-form-study-in-brazil-with-the-student-visa
-│  ├─ sc-student-list-quick-facts
-│  ├─ sc-student-list-common-challenges-applicants-face
-│  ├─ sc-student-list-how-we-solve-these-challenges
-│  ├─ sc-student-section-visa-overview
-│  ├─ sc-student-form-who-is-this-visa-for
-│  ├─ sc-student-list-required-documents
-│  ├─ sc-student-list-application-process
-│  ├─ sc-student-section-timelines-deadlines
-│  ├─ sc-student-section-fees-costs
-│  ├─ sc-student-list-risks-common-mistakes
-│  ├─ sc-student-section-diy-vs-professional-assistance
-│  ├─ sc-student-section-santa-catarina-specific-context
-│  ├─ sc-student-section-what-our-clients-say
-│  ├─ sc-student-section-frequently-asked-questions
-│  ├─ sc-student-section-international-support
-│  ├─ application-form
-│  ├─ sc-student-list-our-credentials
-│  ├─ sc-student-list-related-services
-│  ├─ sc-student-section-youre-in-good-hands
-│  ├─ sc-student-section-21
-
-├─ business.html
-│  ├─ sc-business-form-conduct-business-in-brazil-with-the-business-visa
-│  ├─ sc-business-list-quick-facts
-│  ├─ sc-business-list-common-challenges-applicants-face
-│  ├─ sc-business-list-how-we-solve-these-challenges
-│  ├─ sc-business-section-visa-overview
-│  ├─ sc-business-form-who-is-this-visa-for
-│  ├─ sc-business-list-required-documents
-│  ├─ sc-business-list-application-process
-│  ├─ sc-business-section-timelines-deadlines
-│  ├─ sc-business-section-fees-costs
-│  ├─ sc-business-list-risks-common-mistakes
-│  ├─ sc-business-section-diy-vs-professional-assistance
-│  ├─ sc-business-section-santa-catarina-specific-context
-│  ├─ sc-business-section-what-our-clients-say
-│  ├─ sc-business-section-frequently-asked-questions
-│  ├─ sc-business-section-international-support
-│  ├─ application-form
-│  ├─ sc-business-list-our-credentials
-│  ├─ sc-business-list-related-services
-│  ├─ sc-business-section-youre-in-good-hands
-│  ├─ sc-business-section-21
-
-├─ research.html
-│  ├─ sc-research-form-conduct-research-in-brazil-with-the-research-visa
-│  ├─ sc-research-list-quick-facts
-│  ├─ sc-research-list-common-challenges-applicants-face
-│  ├─ sc-research-list-how-we-solve-these-challenges
-│  ├─ sc-research-section-visa-overview
-│  ├─ sc-research-form-who-is-this-visa-for
-│  ├─ sc-research-list-required-documents
-│  ├─ sc-research-list-application-process
-│  ├─ sc-research-section-timelines-deadlines
-│  ├─ sc-research-section-fees-costs
-│  ├─ sc-research-list-risks-common-mistakes
-│  ├─ sc-research-section-diy-vs-professional-assistance
-│  ├─ sc-research-section-santa-catarina-specific-context
-│  ├─ sc-research-section-what-our-clients-say
-│  ├─ sc-research-section-frequently-asked-questions
-│  ├─ sc-research-section-international-support
-│  ├─ application-form
-│  ├─ sc-research-list-our-credentials
-│  ├─ sc-research-list-related-services
-│  ├─ sc-research-section-youre-in-good-hands
-│  ├─ sc-research-section-21
-
-├─ diplomatic.html
-│  ├─ sc-diplomatic-form-official-diplomatic-visa-for-brazil-missions
-│  ├─ sc-diplomatic-list-quick-facts
-│  ├─ sc-diplomatic-list-common-challenges-applicants-face
-│  ├─ sc-diplomatic-list-how-we-solve-these-challenges
-│  ├─ sc-diplomatic-section-visa-overview
-│  ├─ sc-diplomatic-form-who-is-this-visa-for
-│  ├─ sc-diplomatic-list-required-documents
-│  ├─ sc-diplomatic-list-application-process
-│  ├─ sc-diplomatic-section-timelines-deadlines
-│  ├─ sc-diplomatic-section-fees-costs
-│  ├─ sc-diplomatic-list-risks-common-mistakes
-│  ├─ sc-diplomatic-section-diy-vs-professional-assistance
-│  ├─ sc-diplomatic-section-santa-catarina-specific-context
-│  ├─ sc-diplomatic-section-what-our-clients-say
-│  ├─ sc-diplomatic-section-frequently-asked-questions
-│  ├─ sc-diplomatic-section-international-support
-│  ├─ application-form
-│  ├─ sc-diplomatic-list-our-credentials
-│  ├─ sc-diplomatic-list-related-services
-│  ├─ sc-diplomatic-section-youre-in-good-hands
-│  ├─ sc-diplomatic-section-21
-
-├─ journalist.html
-│  ├─ sc-journalist-form-cover-news-in-brazil-with-the-journalist-visa
-│  ├─ sc-journalist-list-quick-facts
-│  ├─ sc-journalist-list-common-challenges-applicants-face
-│  ├─ sc-journalist-list-how-we-solve-these-challenges
-│  ├─ sc-journalist-section-visa-overview
-│  ├─ sc-journalist-form-who-is-this-visa-for
-│  ├─ sc-journalist-list-required-documents
-│  ├─ sc-journalist-list-application-process
-│  ├─ sc-journalist-section-timelines-deadlines
-│  ├─ sc-journalist-section-fees-costs
-│  ├─ sc-journalist-list-risks-common-mistakes
-│  ├─ sc-journalist-section-diy-vs-professional-assistance
-│  ├─ sc-journalist-section-santa-catarina-specific-context
-│  ├─ sc-journalist-section-what-our-clients-say
-│  ├─ sc-journalist-section-frequently-asked-questions
-│  ├─ sc-journalist-section-international-support
-│  ├─ application-form
-│  ├─ sc-journalist-list-our-credentials
-│  ├─ sc-journalist-list-related-services
-│  ├─ sc-journalist-section-youre-in-good-hands
-│  ├─ sc-journalist-section-21
-
-├─ fines.html
-│  ├─ sc-fines-form-resolve-immigration-fines-in-brazil
-│  ├─ sc-fines-list-quick-facts
-│  ├─ sc-fines-list-common-challenges-applicants-face
-│  ├─ sc-fines-list-how-we-solve-these-challenges
-│  ├─ sc-fines-section-service-overview
-│  ├─ sc-fines-form-who-is-this-service-for
-│  ├─ sc-fines-list-required-documents
-│  ├─ sc-fines-list-process
-│  ├─ sc-fines-section-timelines-deadlines
-│  ├─ sc-fines-section-fees-costs
-│  ├─ sc-fines-list-risks-common-mistakes
-│  ├─ sc-fines-section-diy-vs-professional-assistance
-│  ├─ sc-fines-section-santa-catarina-specific-context
-│  ├─ sc-fines-section-what-our-clients-say
-│  ├─ sc-fines-section-frequently-asked-questions
-│  ├─ sc-fines-section-international-support
-│  ├─ application-form
-│  ├─ sc-fines-list-our-credentials
-│  ├─ sc-fines-list-related-services
-│  ├─ sc-fines-section-youre-in-good-hands
-│  ├─ sc-fines-section-21
-
-├─ deportation.html
-│  ├─ sc-deportation-form-deportation-assistance-in-brazil
-│  ├─ sc-deportation-list-quick-facts
-│  ├─ sc-deportation-list-common-challenges-applicants-face
-│  ├─ sc-deportation-list-how-we-solve-these-challenges
-│  ├─ sc-deportation-section-service-overview
-│  ├─ sc-deportation-form-who-is-this-service-for
-│  ├─ sc-deportation-list-required-documents
-│  ├─ sc-deportation-list-process
-│  ├─ sc-deportation-section-timelines-deadlines
-│  ├─ sc-deportation-section-fees-costs
-│  ├─ sc-deportation-list-risks-common-mistakes
-│  ├─ sc-deportation-section-diy-vs-professional-assistance
-│  ├─ sc-deportation-section-santa-catarina-specific-context
-│  ├─ sc-deportation-section-what-our-clients-say
-│  ├─ sc-deportation-section-frequently-asked-questions
-│  ├─ sc-deportation-section-international-support
-│  ├─ application-form
-│  ├─ sc-deportation-list-our-credentials
-│  ├─ sc-deportation-list-related-services
-│  ├─ sc-deportation-section-youre-in-good-hands
-│  ├─ sc-deportation-section-21
-
-├─ translation.html
-│  ├─ sc-translation-form-sworn-document-translation-services-in-brazil
-│  ├─ sc-translation-list-quick-facts
-│  ├─ sc-translation-list-common-challenges-applicants-face
-│  ├─ sc-translation-list-how-we-solve-these-challenges
-│  ├─ sc-translation-section-service-overview
-│  ├─ sc-translation-form-who-is-this-service-for
-│  ├─ sc-translation-list-required-documents
-│  ├─ sc-translation-list-process
-│  ├─ sc-translation-section-timelines-deadlines
-│  ├─ sc-translation-section-fees-costs
-│  ├─ sc-translation-list-risks-common-mistakes
-│  ├─ sc-translation-section-diy-vs-professional-assistance
-│  ├─ sc-translation-section-santa-catarina-specific-context
-│  ├─ sc-translation-section-what-our-clients-say
-│  ├─ sc-translation-section-frequently-asked-questions
-│  ├─ sc-translation-section-international-support
-│  ├─ application-form
-│  ├─ sc-translation-list-our-credentials
-│  ├─ sc-translation-list-related-services
-│  ├─ sc-translation-section-youre-in-good-hands
-│  ├─ sc-translation-section-21
-
-├─ expulsion.html
-│  ├─ sc-expulsion-form-expulsion-assistance-in-brazil
-│  ├─ sc-expulsion-list-quick-facts
-│  ├─ sc-expulsion-list-common-challenges-applicants-face
-│  ├─ sc-expulsion-list-how-we-solve-these-challenges
-│  ├─ sc-expulsion-section-service-overview
-│  ├─ sc-expulsion-form-who-is-this-service-for
-│  ├─ sc-expulsion-list-required-documents
-│  ├─ sc-expulsion-list-process
-│  ├─ sc-expulsion-section-timelines-deadlines
-│  ├─ sc-expulsion-section-fees-costs
-│  ├─ sc-expulsion-list-risks-common-mistakes
-│  ├─ sc-expulsion-section-diy-vs-professional-assistance
-│  ├─ sc-expulsion-section-santa-catarina-specific-context
-│  ├─ sc-expulsion-section-what-our-clients-say
-│  ├─ sc-expulsion-section-frequently-asked-questions
-│  ├─ sc-expulsion-section-international-support
-│  ├─ application-form
-│  ├─ sc-expulsion-list-our-credentials
-│  ├─ sc-expulsion-list-related-services
-│  ├─ sc-expulsion-section-youre-in-good-hands
-│  ├─ sc-expulsion-section-21
-
-├─ appeals.html
-│  ├─ sc-appeals-form-appeal-immigration-denials-in-brazil
-│  ├─ sc-appeals-list-quick-facts
-│  ├─ sc-appeals-list-common-challenges-applicants-face
-│  ├─ sc-appeals-list-how-we-solve-these-challenges
-│  ├─ sc-appeals-section-service-overview
-│  ├─ sc-appeals-form-who-is-this-service-for
-│  ├─ sc-appeals-list-required-documents
-│  ├─ sc-appeals-list-appeal-process
-│  ├─ sc-appeals-section-timelines-deadlines
-│  ├─ sc-appeals-section-fees-costs
-│  ├─ sc-appeals-list-risks-common-mistakes
-│  ├─ sc-appeals-section-diy-vs-professional-assistance
-│  ├─ sc-appeals-section-santa-catarina-specific-context
-│  ├─ sc-appeals-section-what-our-clients-say
-│  ├─ sc-appeals-section-frequently-asked-questions
-│  ├─ sc-appeals-section-international-support
-│  ├─ application-form
-│  ├─ sc-appeals-list-our-credentials
-│  ├─ sc-appeals-list-related-services
-│  ├─ sc-appeals-section-youre-in-good-hands
-│  ├─ sc-appeals-section-21
-
-├─ consular.html
-│  ├─ sc-consular-form-consular-services-in-brazil-for-citizens
-│  ├─ sc-consular-list-quick-facts
-│  ├─ sc-consular-list-common-challenges-applicants-face
-│  ├─ sc-consular-list-how-we-solve-these-challenges
-│  ├─ sc-consular-section-service-overview
-│  ├─ sc-consular-form-who-is-this-service-for
-│  ├─ sc-consular-list-required-documents
-│  ├─ sc-consular-list-process
-│  ├─ sc-consular-section-timelines-deadlines
-│  ├─ sc-consular-section-fees-costs
-│  ├─ sc-consular-list-risks-common-mistakes
-│  ├─ sc-consular-section-diy-vs-professional-assistance
-│  ├─ sc-consular-section-santa-catarina-specific-context
-│  ├─ sc-consular-section-what-our-clients-say
-│  ├─ sc-consular-section-frequently-asked-questions
-│  ├─ sc-consular-section-international-support
-│  ├─ application-form
-│  ├─ sc-consular-list-our-credentials
-│  ├─ sc-consular-list-related-services
-│  ├─ sc-consular-section-youre-in-good-hands
-│  ├─ sc-consular-section-21
-
-├─ criminal-records.html
-│  ├─ sc-criminalrecords-form-obtain-criminal-records-certificate-in-brazil
-│  ├─ sc-criminalrecords-list-quick-facts
-│  ├─ sc-criminalrecords-list-common-challenges-applicants-face
-│  ├─ sc-criminalrecords-list-how-we-solve-these-challenges
-│  ├─ sc-criminalrecords-section-service-overview
-│  ├─ sc-criminalrecords-form-who-is-this-service-for
-│  ├─ sc-criminalrecords-list-required-documents
-│  ├─ sc-criminalrecords-list-process
-│  ├─ sc-criminalrecords-section-timelines-deadlines
-│  ├─ sc-criminalrecords-section-fees-costs
-│  ├─ sc-criminalrecords-list-risks-common-mistakes
-│  ├─ sc-criminalrecords-section-diy-vs-professional-assistance
-│  ├─ sc-criminalrecords-section-santa-catarina-specific-context
-│  ├─ sc-criminalrecords-section-what-our-clients-say
-│  ├─ sc-criminalrecords-section-frequently-asked-questions
-│  ├─ sc-criminalrecords-section-international-support
-│  ├─ application-form
-│  ├─ sc-criminalrecords-list-our-credentials
-│  ├─ sc-criminalrecords-list-related-services
-│  ├─ sc-criminalrecords-section-youre-in-good-hands
-│  ├─ sc-criminalrecords-section-21
-
-├─ extradition.html
-│  ├─ sc-extradition-form-extradition-assistance-in-brazil
-│  ├─ sc-extradition-list-quick-facts
-│  ├─ sc-extradition-list-common-challenges-applicants-face
-│  ├─ sc-extradition-list-how-we-solve-these-challenges
-│  ├─ sc-extradition-section-service-overview
-│  ├─ sc-extradition-form-who-is-this-service-for
-│  ├─ sc-extradition-list-required-documents
-│  ├─ sc-extradition-list-process
-│  ├─ sc-extradition-section-timelines-deadlines
-│  ├─ sc-extradition-section-fees-costs
-│  ├─ sc-extradition-list-risks-common-mistakes
-│  ├─ sc-extradition-section-diy-vs-professional-assistance
-│  ├─ sc-extradition-section-santa-catarina-specific-context
-│  ├─ sc-extradition-section-what-our-clients-say
-│  ├─ sc-extradition-section-frequently-asked-questions
-│  ├─ sc-extradition-section-international-support
-│  ├─ application-form
-│  ├─ sc-extradition-list-our-credentials
-│  ├─ sc-extradition-list-related-services
-│  ├─ sc-extradition-section-youre-in-good-hands
-│  ├─ sc-extradition-section-21
-
-├─ north.html
-│  ├─ sc-north-form-discover-the-north-amazon-and-beyond
-│  ├─ sc-north-list-quick-facts
-│  ├─ sc-north-list-common-challenges-applicants-face
-│  ├─ sc-north-list-how-we-solve-these-challenges
-│  ├─ sc-north-section-trip-overview
-│  ├─ sc-north-form-who-is-this-trip-for
-│  ├─ sc-north-list-required-documents
-│  ├─ sc-north-list-booking-process
-│  ├─ sc-north-section-timelines-deadlines
-│  ├─ sc-north-section-fees-costs
-│  ├─ sc-north-list-risks-common-mistakes
-│  ├─ sc-north-section-diy-vs-professional-assistance
-│  ├─ sc-north-section-santa-catarina-specific-context
-│  ├─ sc-north-section-what-our-clients-say
-│  ├─ sc-north-section-frequently-asked-questions
-│  ├─ sc-north-section-international-support
-│  ├─ application-form
-│  ├─ sc-north-list-our-credentials
-│  ├─ sc-north-list-related-services
-│  ├─ sc-north-section-youre-in-good-hands
-│  ├─ sc-north-section-21
+├─ mobile-nav.html
+│  ├─ mobile-nav
 
 ├─ central-west.html
-│  ├─ sc-centralwest-form-wild-centralwest-pantanal-and-cerrado
-│  ├─ sc-centralwest-list-quick-facts
-│  ├─ sc-centralwest-list-common-challenges-applicants-face
-│  ├─ sc-centralwest-list-how-we-solve-these-challenges
-│  ├─ sc-centralwest-section-trip-overview
-│  ├─ sc-centralwest-form-who-is-this-trip-for
-│  ├─ sc-centralwest-list-required-documents
-│  ├─ sc-centralwest-list-booking-process
-│  ├─ sc-centralwest-section-timelines-deadlines
-│  ├─ sc-centralwest-section-fees-costs
-│  ├─ sc-centralwest-list-risks-common-mistakes
-│  ├─ sc-centralwest-section-diy-vs-professional-assistance
-│  ├─ sc-centralwest-section-santa-catarina-specific-context
-│  ├─ sc-centralwest-section-what-our-clients-say
-│  ├─ sc-centralwest-section-frequently-asked-questions
-│  ├─ sc-centralwest-section-international-support
-│  ├─ application-form
-│  ├─ sc-centralwest-list-our-credentials
-│  ├─ sc-centralwest-list-related-services
-│  ├─ sc-centralwest-section-youre-in-good-hands
-│  ├─ sc-centralwest-section-21
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
 
-├─ southeast.html
-│  ├─ sc-southeast-form-dynamic-southeast-cities-and-history
-│  ├─ sc-southeast-list-quick-facts
-│  ├─ sc-southeast-list-common-challenges-applicants-face
-│  ├─ sc-southeast-list-how-we-solve-these-challenges
-│  ├─ sc-southeast-section-trip-overview
-│  ├─ sc-southeast-form-who-is-this-trip-for
-│  ├─ sc-southeast-list-required-documents
-│  ├─ sc-southeast-list-booking-process
-│  ├─ sc-southeast-section-timelines-deadlines
-│  ├─ sc-southeast-section-fees-costs
-│  ├─ sc-southeast-list-risks-common-mistakes
-│  ├─ sc-southeast-section-diy-vs-professional-assistance
-│  ├─ sc-southeast-section-santa-catarina-specific-context
-│  ├─ sc-southeast-section-what-our-clients-say
-│  ├─ sc-southeast-section-frequently-asked-questions
-│  ├─ sc-southeast-section-international-support
-│  ├─ application-form
-│  ├─ sc-southeast-list-our-credentials
-│  ├─ sc-southeast-list-related-services
-│  ├─ sc-southeast-section-youre-in-good-hands
-│  ├─ sc-southeast-section-21
+├─ north.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
 
 ├─ northeast.html
-│  ├─ sc-northeast-form-vibrant-northeast-beaches-and-culture
-│  ├─ sc-northeast-list-quick-facts
-│  ├─ sc-northeast-list-common-challenges-applicants-face
-│  ├─ sc-northeast-list-how-we-solve-these-challenges
-│  ├─ sc-northeast-section-trip-overview
-│  ├─ sc-northeast-form-who-is-this-trip-for
-│  ├─ sc-northeast-list-required-documents
-│  ├─ sc-northeast-list-booking-process
-│  ├─ sc-northeast-section-timelines-deadlines
-│  ├─ sc-northeast-section-fees-costs
-│  ├─ sc-northeast-list-risks-common-mistakes
-│  ├─ sc-northeast-section-diy-vs-professional-assistance
-│  ├─ sc-northeast-section-santa-catarina-specific-context
-│  ├─ sc-northeast-section-what-our-clients-say
-│  ├─ sc-northeast-section-frequently-asked-questions
-│  ├─ sc-northeast-section-international-support
-│  ├─ application-form
-│  ├─ sc-northeast-list-our-credentials
-│  ├─ sc-northeast-list-related-services
-│  ├─ sc-northeast-section-youre-in-good-hands
-│  ├─ sc-northeast-section-21
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
 
 ├─ south.html
-│  ├─ sc-south-form-charming-south-wine-and-gauchos
-│  ├─ sc-south-list-quick-facts
-│  ├─ sc-south-list-common-challenges-applicants-face
-│  ├─ sc-south-list-how-we-solve-these-challenges
-│  ├─ sc-south-section-trip-overview
-│  ├─ sc-south-form-who-is-this-trip-for
-│  ├─ sc-south-list-required-documents
-│  ├─ sc-south-list-booking-process
-│  ├─ sc-south-section-timelines-deadlines
-│  ├─ sc-south-section-fees-costs
-│  ├─ sc-south-list-risks-common-mistakes
-│  ├─ sc-south-section-diy-vs-professional-assistance
-│  ├─ sc-south-section-santa-catarina-specific-context
-│  ├─ sc-south-section-what-our-clients-say
-│  ├─ sc-south-section-frequently-asked-questions
-│  ├─ sc-south-section-international-support
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ southeast.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ derivative.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ extraordinary.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ ordinary.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ provisional.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ reacquisition-citizenship.html
+│  ├─ hero-heading
 │  ├─ application-form
-│  ├─ sc-south-list-our-credentials
-│  ├─ sc-south-list-related-services
-│  ├─ sc-south-section-youre-in-good-hands
-│  ├─ sc-south-section-21
+
+├─ reacquisition.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ renouncing-citizenship.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ special.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ apostille.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ appeals.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ authentication.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ company-formation.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ consular.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ consultation.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ cpf.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ criminal-records.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ deportation.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ expulsion.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ extradition.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ fines.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ power-of-attorney.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ rne.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ translation.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ cplp.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ crnm.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ digital-nomad.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ educational-exchange.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ family-reunion.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ health-treatment.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ humanitarian.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ investment.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ investor.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ marriage.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ mercosul.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ permanent.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ religious.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ researcher.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ retiree.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ scientific-research.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ skilled-worker.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ startup.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ study.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ temporary.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ volunteer.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ work-mercosur.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ work.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ youth-exchange.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ artist.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ artistic.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ business.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ crew.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ cultural.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ dependent.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ digital-nomad.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ diplomatic.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ educational-exchange.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ family.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ humanitarian.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ investor.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ journalist.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ medical.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ missionary.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ official.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ religious.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ research.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ retiree.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ sports.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ startup.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ student.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ technical.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ tourist.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ transit.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ volunteer.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ work-mercosur.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ work.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
